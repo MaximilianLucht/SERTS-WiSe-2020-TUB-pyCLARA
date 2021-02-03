@@ -1,7 +1,7 @@
 from lib.spatial_functions import *
 from lib.util import *
 
-
+# testkommentar
 def calculate_stats_for_non_empty_rasters(paths, param):
     """
     This function calculates statistics for all non empty subrasters. These statistics include the number of rows and columns, the size (number of valid points), the standard
