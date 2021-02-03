@@ -1,6 +1,6 @@
 from lib.spatial_functions import *
 from lib.util import *
-
+# testkommentar johannes
 # testkommentar
 def calculate_stats_for_non_empty_rasters(paths, param):
     """
